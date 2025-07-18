@@ -1,6 +1,6 @@
 import React from "react";
 import { Routes, Route } from "react-router-dom";
-import Home from "./pages/home"; // Assuming this component exists
+import Home from "./pages/Home"; // Assuming this component exists
 import Blog from "./pages/Blog"; // Assuming this component exists
 import Layout from "./pages/admin/Layout"; // Assuming this component exists
 import Dashboard from "./pages/admin/Dashboard"; // Assuming this component exists
